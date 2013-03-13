@@ -1,0 +1,12 @@
+{application, myapps,
+ [
+  {description, "An erlang application."},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { myapps_app, []}},
+  {env, []}
+ ]}.

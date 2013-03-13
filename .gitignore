@@ -1,0 +1,8 @@
+ebin
+rel/myapps
+*.beam
+*~
+deps
+erl_crash.dump
+*/#*#
+#*#

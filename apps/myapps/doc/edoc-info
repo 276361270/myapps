@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,myapps}.
+{packages,[]}.
+{modules,[myapps,myapps_app,myapps_server,myapps_sup]}.
